@@ -20,4 +20,4 @@ External to academia, my hobbies include (but are not limited to):
 - some feasible combination of the above.
 
 ---
-# Click [here](/cvp.pdf) for my CV and (eventually) [here]() for my Research Statement.
+# Click [here](cvp.pdf) for my CV and (eventually) [here]() for my Research Statement.
