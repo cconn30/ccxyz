@@ -6,7 +6,7 @@ description: math currently on my mind
 math: true
 ---
 
-A place for me to talk about some of my recent mathematical musings
+A place for me to talk about some of my recent mathematical musings.
 <!--more-->
 ---
 ## [11-07-23] Stringy product analogue for "Lagrangian suborbifolds"
