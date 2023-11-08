@@ -1,7 +1,7 @@
 baseURL = 'https://cconn30.github.io/ccxyz/'
 languageCode = 'en-us'
 theme = 'risotto'
-title = "risotto demo"
+title = "test"
 author = "Joe Roe"
 copyright = "© [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
 paginate = 3
