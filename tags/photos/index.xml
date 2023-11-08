@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photos on Carson Connard</title>
+    <link>https://cconn30.github.io/ccxyz/tags/photos/</link>
+    <description>Recent content in photos on Carson Connard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cconn30.github.io/ccxyz/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photo Gallery</title>
+      <link>https://cconn30.github.io/ccxyz/post/photogallery/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cconn30.github.io/ccxyz/post/photogallery/</guid>
+      <description>&lt;p&gt;Travelling (particularly for math) has brought me to some cool places, and introduced me to even cooler people. Here are some pictures from (some of) my wanderings.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

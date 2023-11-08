@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cconn30.github.io/ccxyz/</loc>
-    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/post/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/post/photogallery/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/tags/photos/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/tags/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/post/ponderings/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cconn30.github.io/ccxyz/about/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
@@ -21,19 +36,22 @@
     <loc>https://cconn30.github.io/ccxyz/tags/markdown/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cconn30.github.io/ccxyz/post/</loc>
+    <loc>https://cconn30.github.io/ccxyz/post/papers/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cconn30.github.io/ccxyz/post/papers/</loc>
+    <loc>https://cconn30.github.io/ccxyz/tags/privacy/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cconn30.github.io/ccxyz/series/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cconn30.github.io/ccxyz/tags/shortcodes/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cconn30.github.io/ccxyz/categories/syntax/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cconn30.github.io/ccxyz/tags/</loc>
+    <loc>https://cconn30.github.io/ccxyz/post/talks/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cconn30.github.io/ccxyz/categories/themes/</loc>

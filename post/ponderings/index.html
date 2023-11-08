@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head><title>Things I&#39;ve been thinking about recently &ndash; Carson Connard</title>
+<meta name="description" content="mathematics student at kansas state university">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.1/css/academicons.min.css" integrity="sha512-b1ASx0WHgVFL5ZQhTgiPWX+68KjS38Jk87jg7pe+qC7q9YkEtFq0z7xCglv7qGIs/68d3mAp+StfC8WKC5SSAg==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="https://cconn30.github.io/ccxyz/css/palettes/base16-dark.css">
+<link rel="stylesheet" href="https://cconn30.github.io/ccxyz/css/risotto.css">
+<link rel="stylesheet" href="https://cconn30.github.io/ccxyz/css/custom.css">
+
+
+
+
+
+
+
+</head>
+
+    <body>
+        <div class="page">
+
+            <header class="page__header"><nav class="page__nav main-nav">
+    <ul>
+    <h1 class="page__logo"><a href="https://cconn30.github.io/ccxyz/" class="page__logo-inner">Carson Connard</a></h1>
+    
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="https://cconn30.github.io/ccxyz/about/" title="">About &#43; CV</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item active" href="https://cconn30.github.io/ccxyz/post/" title="Math &#43; More">Math &#43; More</a></li>
+    
+    </ul>
+</nav>
+
+</header>
+
+            <section class="page__body">
+    <header class="content__header">
+        <h1>Things I&rsquo;ve been thinking about recently</h1>
+    </header>
+    
+    <div class="content__body">
+        <p>A place for me to talk about some of my recent mathematical musings.</p>
+<hr>
+<h2 id="11-07-23-stringy-product-analogue-for-lagrangian-suborbifolds">[11-07-23] Stringy product analogue for &ldquo;Lagrangian suborbifolds&rdquo;</h2>
+<p>Gromov-Witten theory is a powerful invariant in symplectic topology which count pseudoholomorphic curves on symplectic manifolds. A standard construction of this &ldquo;enumerative geometry&rdquo; is the so-called quantum product, which is (handwavily) constructed as follows:</p>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+
+
+<p>
+Consider a symplectic manifold \((X,\omega)\) equipped with a Poincare pairing \(\langle\cdot,\cdot\rangle\), and consider its cohomology \(H^\bullet(X)\). Via the theory of pseudoholomorphic curves, one can study a moduli space \(\mathcal{M}\) of holomorphic maps from \(\mathbb{C}P^1\to X\) with three marked points. 
+</p>
+
+<p>
+Consider three cohomology classes \(\alpha,\beta,\gamma\) on the target \(X\), and integrate
+$$
+A(\alpha,\beta,\gamma)=\int_{\mathcal{M}} \text{ev}_1^*\alpha\wedge \text{ev}_2^*\beta\wedge \text{ev}_3^*\gamma.
+$$
+This defines a 3-tensor, which turns out is such that \(A(\alpha,\beta,\gamma)=\langle\alpha\star\beta,\gamma\rangle\); this product \(\star\) is the <i> quantum product </i>. This product along with the Poincare pairing which \(X\) is equipped with define a Frobenius algebra over \(\mathbb{C}[[q]]\). If we set \(q=0\), we are effectively just counting the constant, or zero-energy, holomorphic curves: it turns out that this retrieves the standard cohomology of \(X\).
+</p>
+
+<p>
+If we consider now a Lagrangian submanifold \(L\subset X\), we can again study the moduli space of curves on a disk with boundary on \(L\) with three marked points, and deform the cup product on \(H^\bullet(L)\). This determines a non-commutative Frobenius algebra, where again restricting to constant curves allows one to retrieve the cohomology of \(L\).
+</p>
+
+<p>
+I spent the majority of the Summer of 2023 working with orbifolds; naturally, an extension of the ideas mentioned above would be to symplectic orbifolds. It turns out that when similar processes as above are performed on an orbifold \(\mathcal{X}\) (which requires the use of the <i> inertia orbifold</i>), we are able to construct the <i> stringy </i> product. This is a remarkable result, as this product structure is not immediately observable when one studies the cohomology of orbifolds.
+</p>
+
+<p>
+As mentioned in the manifold case, we also would like to study the Lagrangian case. However, the notion of a "Lagrangian suborbifold" is not well defined. However, in a 2023 <a href="https://arxiv.org/abs/2308.01595">preprint</a> of Chen, Ono, and Wang, the idea of the <i> dihedral twisted sector </i> \(I_{\mathcal{X}}L\) is introduced -- as the notation may suggest, this acts as a sort of Lagrangian "relative" to \(\mathcal{X}\). <b> So, we conjecture that another exotic cohomology product could be constructed on </b> \(I_{\mathcal{X}}L\).
+</p>
+    </div>
+    <footer class="content__footer"></footer>
+
+            </section>
+
+            <section class="page__aside">
+                <div class="aside__about">
+<div class="aside__about">
+    
+<h1 class="about__title">carson connard</h1>
+<p class="about__description">mathematics student at kansas state university</p>
+</div>
+
+
+<ul class="aside__social-links">
+    
+    <li>
+        <a href="https://www.linkedin.com/in/cconnard/" rel="me" aria-label="LinkedIn" title="LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="https://github.com/cconn30" rel="me" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="mailto:carson30@ksu.edu" rel="me" aria-label="Email" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="https://orcid.org/0009-0004-5181-1863" rel="me" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+</ul>
+</div>
+                <hr>
+                <div class="aside__content">
+    <p>math currently on my mind</p>
+    
+        <p>
+            By Carson Connard, 
+            2023-11-07
+        </p>
+    
+
+    
+
+                </div>
+            </section>
+
+            <footer class="page__footer"><p>
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+    
+</p>
+<br /><br />
+<p class="copyright"></p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
+</footer>
+
+        </div>
+    </body>
+
+</html>
