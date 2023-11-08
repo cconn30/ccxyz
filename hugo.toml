@@ -5,7 +5,6 @@ title = "Carson Connard"
 author = "Carson Connard"
 copyright = ""
 paginate = 3
-canonifyURLs = true
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
