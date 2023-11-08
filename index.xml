@@ -5,7 +5,8 @@
     <link>https://cconn30.github.io/ccxyz/</link>
     <description>Recent content on Carson Connard</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cconn30.github.io/ccxyz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cconn30.github.io/ccxyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://cconn30.github.io/ccxyz/about/</link>
@@ -15,6 +16,15 @@
       <description>I graduated from high school in greater Houston, TX, and I am currently a senior at Kansas State University in Manhattan, KS. I intend to pursue graduate studies in mathematics following graduation, and subsequently work in research, ideally in the academic realm.
 External to academia, my hobbies include (but are not limited to):
 swimming (except backstroke) road-tripping/travelling rock climbing road biking listening to five new songs a day making and solving puzzles attempting to make a website some feasible combination of the above.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://cconn30.github.io/ccxyz/post/papers/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cconn30.github.io/ccxyz/post/papers/</guid>
+      <description>&lt;p&gt;A list of my papers and expository writings.&lt;/p&gt;</description>
     </item>
     
     <item>

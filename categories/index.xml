@@ -5,6 +5,25 @@
     <link>https://cconn30.github.io/ccxyz/categories/</link>
     <description>Recent content in Categories on Carson Connard</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cconn30.github.io/ccxyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cconn30.github.io/ccxyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>syntax</title>
+      <link>https://cconn30.github.io/ccxyz/categories/syntax/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cconn30.github.io/ccxyz/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://cconn30.github.io/ccxyz/categories/themes/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cconn30.github.io/ccxyz/categories/themes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

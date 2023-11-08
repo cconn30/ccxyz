@@ -2,19 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cconn30.github.io/ccxyz/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
     <loc>https://cconn30.github.io/ccxyz/about/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/categories/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/tags/css/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/tags/html/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/tags/markdown/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/post/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/post/papers/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/series/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/categories/syntax/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/tags/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/categories/themes/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cconn30.github.io/ccxyz/series/themes-guide/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cconn30.github.io/ccxyz/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cconn30.github.io/ccxyz/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://cconn30.github.io/ccxyz/categories/</loc>
-  </url><url>
-    <loc>https://cconn30.github.io/ccxyz/series/</loc>
-  </url><url>
-    <loc>https://cconn30.github.io/ccxyz/tags/</loc>
+    <loc>https://cconn30.github.io/ccxyz/tags/index/</loc>
   </url>
 </urlset>

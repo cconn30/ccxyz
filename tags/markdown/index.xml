@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Carson Connard</title>
+    <link>https://cconn30.github.io/ccxyz/tags/markdown/</link>
+    <description>Recent content in markdown on Carson Connard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cconn30.github.io/ccxyz/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Papers</title>
+      <link>https://cconn30.github.io/ccxyz/post/papers/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cconn30.github.io/ccxyz/post/papers/</guid>
+      <description>&lt;p&gt;A list of my papers and expository writings.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
