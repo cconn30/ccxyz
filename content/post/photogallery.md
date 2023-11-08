@@ -8,11 +8,9 @@ tags = [
 ]
 +++
 
-Travelling (particularly for math) has brought me to some cool places, and introduced me to even cooler people. Here are some pictures from (some of) my wanderings.
+Travelling (particularly for math) has brought me to some cool places, and introduced me to even cooler people. Here are some pictures from (some of) my wanderings. (Under construction.)
 <!--more-->
 ---
-
-Under construction.
 
 ## Dartmouth College & Norwich Cty, VT; October 2023
 
