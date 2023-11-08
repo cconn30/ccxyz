@@ -12,6 +12,8 @@ Travelling (particularly for math) has brought me to some cool places, and intro
 <!--more-->
 ---
 
+![carson](main.jpg)
+
 ## Dartmouth College & Norwich Cty, VT; October 2023
 
 <img src="/ccxyz/assets/dm1.jpg" alt="dartmouth 1" width="225">
