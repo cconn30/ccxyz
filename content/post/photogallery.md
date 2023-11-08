@@ -14,9 +14,9 @@ Travelling (particularly for math) has brought me to some cool places, and intro
 
 ## Dartmouth College & Norwich Cty, VT; October 2023
 
-<img src="https://cconn30.github.io/ccxyz/static/dm1.jpg" alt="dartmouth 1" width="225">
-<img src="dm2.jpg" alt="dartmouth 2" width="400">
-<img src="dm3.jpg" alt="dartmouth 3" width="400">
+<img src="/ccxyz/assets/dm1.jpg" alt="dartmouth 1" width="225">
+<img src="assets/dm2.jpg" alt="dartmouth 2" width="400">
+<img src="/assets/dm3.jpg" alt="dartmouth 3" width="400">
 <img src="dm4.jpg" alt="dartmouth 4" width="225">
 
 ## Northwestern University & Madison, WI; June 2023
