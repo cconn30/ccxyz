@@ -1,9 +1,9 @@
 baseURL = 'https://cconn30.github.io/ccxyz/'
 languageCode = 'en-us'
 theme = 'risotto'
-title = "test"
-author = "Joe Roe"
-copyright = "© [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
+title = "Carson Connard"
+author = "Carson Connard"
+copyright = ""
 paginate = 3
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -22,9 +22,9 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
-logo = "images/rice.svg"
+title = "carson connard"
+description = "mathematics student at kansas state university"
+logo = ""
 
 # Sidebar: social links
 # Available icon sets:
@@ -32,25 +32,30 @@ logo = "images/rice.svg"
 # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
 [[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/cconnard/"
+
+[[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+url = "https://github.com/cconn30"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "mailto:carson30@ksu.edu"
 
 [[params.socialLinks]]
 icon = "ai ai-orcid"
 title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+url = "https://orcid.org/0009-0004-5181-1863"
 
 [menu]
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About + CV"
     url = "/about/"
     weight = 10
 
