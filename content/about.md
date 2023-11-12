@@ -21,6 +21,5 @@ External to academia, my hobbies include (but are not limited to):
 
 ---
 # Click [here](../assets/cvp.pdf) for my CV and (eventually) [here]() for my Research Statement.
-<img src="assets/dm1.jpg" alt="dartmouth 1" width="225">
 
 Note: some links may be broken, and are under construction.
