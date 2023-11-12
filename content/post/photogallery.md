@@ -12,6 +12,8 @@ Travelling (particularly for math) has brought me to some cool places, and intro
 <!--more-->
 ---
 
+<!-- Try this next: https://stackoverflow.com/questions/61537403/how-to-host-image-at-https-user-images-githubusercontent-com-path-filename -->
+
 ## Dartmouth College & Norwich Cty, VT; October 2023
 
 <img src="../../assets/dm1.jpg" alt="dartmouth 1" width="225">
