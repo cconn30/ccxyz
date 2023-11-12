@@ -49,7 +49,7 @@ Travelling (particularly for math) has brought me to some cool places, and intro
 ## Chattanooga, TN & Smoky Mountains & Atlanta, GA; Summer 2022
 
 <img src="/assets/creek.jpg" alt="go to nature spot" width="400">
-<img src="/assets/gt.jpg" alt="ga tech" width="225">
+<img src="https://postimg.cc/wR9y2hzG/6454fab4" alt="ga tech" width="225">
 <img src="/assets/lookout.jpg" alt="lookout mtn" width="225">
 <img src="/assets/smoky.jpg" alt="smoky mtns" width="400">
 
