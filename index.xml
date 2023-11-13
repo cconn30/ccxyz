@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carson Connard</title>
-    <link>http://carsonconnard.xyz/</link>
+    <link>https://carsonconnard.xyz/</link>
     <description>Recent content on Carson Connard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://carsonconnard.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carsonconnard.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talks &amp; Travel</title>
-      <link>http://carsonconnard.xyz/post/talks/</link>
+      <link>https://carsonconnard.xyz/post/talks/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://carsonconnard.xyz/post/talks/</guid>
+      <guid>https://carsonconnard.xyz/post/talks/</guid>
       <description>&lt;p&gt;I have presented my work at various conferences, seminars, and workshops. This is a list of my talks and math-related travels.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Photo Gallery</title>
-      <link>http://carsonconnard.xyz/post/photogallery/</link>
+      <link>https://carsonconnard.xyz/post/photogallery/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://carsonconnard.xyz/post/photogallery/</guid>
+      <guid>https://carsonconnard.xyz/post/photogallery/</guid>
       <description>&lt;p&gt;Travelling (particularly for math) has brought me to some cool places, and introduced me to even cooler people. Here are some pictures from (some of) my wanderings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Things I&#39;ve been thinking about recently</title>
-      <link>http://carsonconnard.xyz/post/ponderings/</link>
+      <link>https://carsonconnard.xyz/post/ponderings/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://carsonconnard.xyz/post/ponderings/</guid>
+      <guid>https://carsonconnard.xyz/post/ponderings/</guid>
       <description>&lt;p&gt;A place for me to talk about some of my recent mathematical musings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://carsonconnard.xyz/about/</link>
+      <link>https://carsonconnard.xyz/about/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://carsonconnard.xyz/about/</guid>
+      <guid>https://carsonconnard.xyz/about/</guid>
       <description>I graduated from high school in greater Houston, TX, and I am currently a senior at Kansas State University in Manhattan, KS. I intend to pursue graduate studies in mathematics following graduation, and subsequently work in research, ideally in the academic realm.
 External to academia, my hobbies include (but are not limited to):
 swimming (except backstroke) road-tripping/travelling rock climbing road biking listening to five new songs a day making and solving puzzles attempting to make a website some feasible combination of the above.</description>
@@ -47,19 +47,19 @@ swimming (except backstroke) road-tripping/travelling rock climbing road biking 
     
     <item>
       <title>Papers</title>
-      <link>http://carsonconnard.xyz/post/papers/</link>
+      <link>https://carsonconnard.xyz/post/papers/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://carsonconnard.xyz/post/papers/</guid>
+      <guid>https://carsonconnard.xyz/post/papers/</guid>
       <description>&lt;p&gt;A list of my papers and expository writings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://carsonconnard.xyz/archives/</link>
+      <link>https://carsonconnard.xyz/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://carsonconnard.xyz/archives/</guid>
+      <guid>https://carsonconnard.xyz/archives/</guid>
       <description></description>
     </item>
     
