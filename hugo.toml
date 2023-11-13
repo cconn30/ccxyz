@@ -1,4 +1,4 @@
-baseURL = 'http://carsonconnard.xyz'
+baseURL = 'https://carsonconnard.xyz'
 languageCode = 'en-us'
 theme = 'risotto'
 title = "Carson Connard"
