@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Carson Connard</title>
-    <link>https://cconn30.github.io/ccxyz/tags/index/</link>
+    <link>http://carsonconnard.xyz/tags/index/</link>
     <description>Recent content in index on Carson Connard</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cconn30.github.io/ccxyz/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://carsonconnard.xyz/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Math &#43; More</title>
-      <link>https://cconn30.github.io/ccxyz/post/</link>
+      <link>http://carsonconnard.xyz/post/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cconn30.github.io/ccxyz/post/</guid>
+      <guid>http://carsonconnard.xyz/post/</guid>
       <description></description>
     </item>
     

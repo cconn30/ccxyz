@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Carson Connard</title>
-    <link>https://cconn30.github.io/ccxyz/series/</link>
+    <link>http://carsonconnard.xyz/series/</link>
     <description>Recent content in Series on Carson Connard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cconn30.github.io/ccxyz/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://carsonconnard.xyz/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>https://cconn30.github.io/ccxyz/series/themes-guide/</link>
+      <link>http://carsonconnard.xyz/series/themes-guide/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cconn30.github.io/ccxyz/series/themes-guide/</guid>
+      <guid>http://carsonconnard.xyz/series/themes-guide/</guid>
       <description></description>
     </item>
     

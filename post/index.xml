@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math &#43; More on Carson Connard</title>
-    <link>https://cconn30.github.io/ccxyz/post/</link>
+    <link>http://carsonconnard.xyz/post/</link>
     <description>Recent content in Math &#43; More on Carson Connard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cconn30.github.io/ccxyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://carsonconnard.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photo Gallery</title>
-      <link>https://cconn30.github.io/ccxyz/post/photogallery/</link>
+      <link>http://carsonconnard.xyz/post/photogallery/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cconn30.github.io/ccxyz/post/photogallery/</guid>
+      <guid>http://carsonconnard.xyz/post/photogallery/</guid>
       <description>&lt;p&gt;Travelling (particularly for math) has brought me to some cool places, and introduced me to even cooler people. Here are some pictures from (some of) my wanderings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Things I&#39;ve been thinking about recently</title>
-      <link>https://cconn30.github.io/ccxyz/post/ponderings/</link>
+      <link>http://carsonconnard.xyz/post/ponderings/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cconn30.github.io/ccxyz/post/ponderings/</guid>
+      <guid>http://carsonconnard.xyz/post/ponderings/</guid>
       <description>&lt;p&gt;A place for me to talk about some of my recent mathematical musings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Papers</title>
-      <link>https://cconn30.github.io/ccxyz/post/papers/</link>
+      <link>http://carsonconnard.xyz/post/papers/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cconn30.github.io/ccxyz/post/papers/</guid>
+      <guid>http://carsonconnard.xyz/post/papers/</guid>
       <description>&lt;p&gt;A list of my papers and expository writings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Talks &amp; Travel</title>
-      <link>https://cconn30.github.io/ccxyz/post/talks/</link>
+      <link>http://carsonconnard.xyz/post/talks/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cconn30.github.io/ccxyz/post/talks/</guid>
+      <guid>http://carsonconnard.xyz/post/talks/</guid>
       <description>&lt;p&gt;I have presented my work at various conferences, seminars, and workshops. This is a list of my talks and math-related travels.&lt;/p&gt;</description>
     </item>
     
