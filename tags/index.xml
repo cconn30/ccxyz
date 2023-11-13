@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Carson Connard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://carsonconnard.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://carsonconnard.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>privacy</title>
+      <link>http://carsonconnard.xyz/tags/privacy/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://carsonconnard.xyz/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>http://carsonconnard.xyz/tags/shortcodes/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://carsonconnard.xyz/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>photos</title>
       <link>http://carsonconnard.xyz/tags/photos/</link>
@@ -40,24 +58,6 @@
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>http://carsonconnard.xyz/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>http://carsonconnard.xyz/tags/privacy/</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://carsonconnard.xyz/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>http://carsonconnard.xyz/tags/shortcodes/</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://carsonconnard.xyz/tags/shortcodes/</guid>
       <description></description>
     </item>
     
