@@ -15,17 +15,17 @@ I have presented my work at various conferences, seminars, and workshops. This i
 ## Talks
 
 ### Upcoming
-
-1. [11-13-23] Topology Seminar at KSU -- 50 minute talk
-2. [11-18-23] Kansas Honors Connections Conference at Emporia State University -- 15 minute talk
-3. [12-03-23] Kansas Mathematics Graduate Student Conference (Fall 2023) at the University of Kansas -- 25 minute talk
+ 
+1. [11-18-23] Kansas Honors Connections Conference at Emporia State University -- 15 minute talk
+2. [12-03-23] Kansas Mathematics Graduate Student Conference (Fall 2023) at the University of Kansas -- 25 minute talk
 
 ### Previous
 
-1. [10-30-23] Physics Undergraduate Colloquium at KSU -- 15 minute talk
-2. [10-13-23] Dartmouth Scholar's Program at Dartmouth College -- poster
-3. [01-06-23] JMM 2023 -- poster
-4. [08-25-22] University of Tennessee at Chattanooga Fall Research Conference -- poster
+1. [11-13-23] Topology Seminar at KSU -- 50 minute talk
+2. [10-30-23] Physics Undergraduate Colloquium at KSU -- 15 minute talk
+3. [10-13-23] Dartmouth Scholar's Program at Dartmouth College -- poster
+4. [01-06-23] JMM 2023 -- poster
+5. [08-25-22] University of Tennessee at Chattanooga Fall Research Conference -- poster
 
 ---
 
