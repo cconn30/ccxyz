@@ -39,7 +39,11 @@ So, in the case of manifolds, up to homotopy, the crucial data which allows for 
 <b> If we consider a symplectic orbifold </b> \(\mathcal{X}\) <b> and a Lagrangian suborbifold </b> \(\mathcal{L}\subset\mathcal{X}\), <b> then the data required to extract the exotic product described in the previous post on </b> \(H^\bullet(I_{\mathcal{X}}\mathcal{L})\) <b> is dependent on some almost-complex/totally-real structure instead of symplectic/Lagrangian structure. </b>
 </p>
 
+{{</ math.inline >}}
+
 ## [11-22-23] Chen-Ruan product analogue for "Lagrangian suborbifolds"
+
+{{< math.inline >}}
 
 <p>
 Consider a symplectic manifold \((X,\omega)\) whose cohomology \(H^\bullet(X)\) is equipped with the Poincaré pairing \(\langle\cdot,\cdot\rangle\).
