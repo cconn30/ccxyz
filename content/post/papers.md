@@ -28,5 +28,6 @@ A list of my papers and expository writings.
 
 1. Undergraduate thesis: Morse-Smale-Witten Complexes for Orbifolds and Exotic Products on Dihedral Twisted Sectors (in preparation).
 2. Lecture notes for Haar measures on Lie groups (in preparation).
+<!---
 3. Intro to Morse Homology and Gromov-Witten Theory on Orbifolds. (WIP, [pdf](../../morsehomologyGWTOrbi.pdf))
-
+-->
