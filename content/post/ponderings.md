@@ -1,7 +1,7 @@
 ---
 author: Carson Connard
 title: Things I've been thinking about recently
-date: 2023-11-07
+date: 2023-11-27
 description: math currently on my mind
 math: true
 ---
@@ -9,7 +9,6 @@ math: true
 A place for me to talk about some of my recent mathematical musings.
 <!--more-->
 ---
-## [11-07-23] Stringy product analogue for "Lagrangian suborbifolds"
 
 {{< math.inline >}}
 {{ if or .Page.Params.math .Site.Params.math }}
@@ -19,11 +18,33 @@ A place for me to talk about some of my recent mathematical musings.
 {{ end }}
 {{</ math.inline >}}
 
+
+## [11-27-23] More general structure than expected?
+
 {{< math.inline >}}
+
+<p> 
+As mentioned in my previous post, we can construct product structures via the use of Gromov-Witten invariants. However, note the following theorem, due to (at least in part, I believe) Gromov:
+</p>
+
+<p> 
+<b> Theorem. </b> Symplectic manifolds always have almost-complex structures which are compatible with the symplectic structure. Further, there exists an infinite-dimensional space of compatible almost-complex structures. This space is contractible however, and leads to the fact that all of these almost-complex structures are in fact homotopy equivalent.
+</p>
+
+<p>
+So, in the case of manifolds, up to homotopy, the crucial data which allows for the application of Gromov-Witten theory to deform cohomology products does not come from symplectic structure, rather the almost-complex structure on the manifold. This extends to Lagrangians: it is known that a Lagrangian submanifold will be totally-real with respect to the almost-complex structure on the manifold. This motivates the following:
+</p>
+
+<p>
+<b> If we consider a symplectic orbifold </b> \(\mathcal{X}\) <b> and a Lagrangian suborbifold </b> \(\mathcal{L}\subset\mathcal{X}\), <b> then the data required to extract the exotic product described in the previous post on </b> \(H^\bullet(I_{\mathcal{X}}\mathcal{L})\) <b> is dependent on some almost-complex/totally-real structure instead of symplectic/Lagrangian structure. </b>
+</p>
+
+## [11-22-23] Chen-Ruan product analogue for "Lagrangian suborbifolds"
+
 <p>
 Consider a symplectic manifold \((X,\omega)\) whose cohomology \(H^\bullet(X)\) is equipped with the Poincaré pairing \(\langle\cdot,\cdot\rangle\).
 
-Gromov-Witten theory is a powerful tool in symplectic geometry which connects to mathematical physics, namely Type IIA string theory. The main point of study are the Gromov-Witten invariants, which "count" genus \(g\) pseudo-holomorphic curves \(C\subset \mathbb{C} P^1\), with \(n\) marked points, mapping into \(X\). That is, we consider _stable maps_ \(f: C\subset\mathbb{C} P^1\to X\). It turns out that the set of these functions forms a moduli space, which allows us to define the Gromov-Witten invariants:
+Gromov-Witten theory is a powerful tool in symplectic geometry which connects to mathematical physics, namely Type IIA string theory. The main point of study are the Gromov-Witten invariants, which "count" genus \(g\) pseudo-holomorphic curves \(C\subset \mathbb{C} P^1\), with \(n\) marked points, mapping into \(X\). That is, we consider <i> stable maps </i> \(f: C\subset\mathbb{C} P^1\to X\). It turns out that the set of these functions forms a moduli space, which allows us to define the Gromov-Witten invariants:
 </p>
 
 <p>
@@ -48,7 +69,7 @@ We can do the same construction for a Lagrangian submanifold \(L\subset X\), but
 </p>
 
 <p>
-I spent the majority of the Summer of 2023 working with orbifolds; naturally, an extension of the ideas mentioned above would be to a symplectic orbifold \(\mathcal{X}\). It turns out that when similar processes as above are performed on \(\mathcal{X}\), we require the use of the cohomology of the <i> inertia orbifold</i> \(I\mathcal{X}\). Amazingly, when we identify
+I spent the majority of the Summer of 2023 working with orbifolds; an extension of the ideas mentioned above would be to a symplectic orbifold \(\mathcal{X}\). It turns out that when similar processes as above are performed on \(\mathcal{X}\), we require the use of the cohomology of the <i> inertia orbifold</i> \(I\mathcal{X}\). Amazingly, when we identify
 $$
 \langle\alpha\star\beta,\gamma\rangle=GW_{0,3}(\mathcal{X})
 $$
@@ -56,7 +77,11 @@ and restrict to \(q=0\), we retrieve the <i> Chen-Ruan product </i> on \(H^\bull
 </p>
 
 <p>
-We also would like to study a Lagrangian suborbifold \(\mathcal{L}\subset\mathcal{X}) as modeled in the manifold case. However, the notion of a "Lagrangian suborbifold" is not well defined. However, in a 2023 <a href="https://arxiv.org/abs/2308.01595">preprint</a> of Chen, Ono, and Wang, the idea of the <i> dihedral twisted sector </i> \(I_{\mathcal{X}}\mathcal{L}\) is introduced -- as the notation may suggest, this acts as a sort of Lagrangian "relative" to \(\mathcal{X}\). <b> So, we conjecture that another exotic cohomology product could be constructed on </b> \(I_{\mathcal{X}}\mathcal{L}\) <b> by restricting </b> \(H^\bullet(I_\mathcal{X}\mathcal{L})[[q]]\) <b> to </b> \(q=0\).
+We also would like to study a Lagrangian suborbifold \(\mathcal{L}\subset\mathcal{X}\) as modeled in the manifold case. However, the notion of a "Lagrangian suborbifold" is not well defined. However, in a 2023 <a href="https://arxiv.org/abs/2308.01595">preprint</a> of Chen, Ono, and Wang, the idea of the <i> dihedral twisted sector </i> \(I_{\mathcal{X}}\mathcal{L}\) is introduced -- as the notation may suggest, this acts as a sort of Lagrangian "relative" to \(\mathcal{X}\). 
+</p>
+
+<p>
+<b> So, we conjecture that another exotic cohomology product could be constructed on </b> \(I_{\mathcal{X}}\mathcal{L}\) <b> by restricting </b> \(H^\bullet(I_\mathcal{X}\mathcal{L})[[q]]\) <b> to </b> \(q=0\).
 </p>
 
 <p>
