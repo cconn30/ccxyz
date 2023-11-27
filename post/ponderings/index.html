@@ -53,7 +53,6 @@
         <p>A place for me to talk about some of my recent mathematical musings.</p>
 <hr>
 <h2 id="11-07-23-stringy-product-analogue-for-lagrangian-suborbifolds">[11-07-23] Stringy product analogue for &ldquo;Lagrangian suborbifolds&rdquo;</h2>
-<p>Gromov-Witten theory is a powerful invariant in symplectic topology which count pseudoholomorphic curves on symplectic manifolds. A standard construction of this &ldquo;enumerative geometry&rdquo; is the so-called quantum product, which is (handwavily) constructed as follows:</p>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
@@ -63,27 +62,46 @@
 
 
 <p>
-Consider a symplectic manifold \((X,\omega)\) equipped with a Poincare pairing \(\langle\cdot,\cdot\rangle\), and consider its cohomology \(H^\bullet(X)\). Via the theory of pseudoholomorphic curves, one can study a moduli space \(\mathcal{M}\) of holomorphic maps from \(\mathbb{C}P^1\to X\) with three marked points. 
+Consider a symplectic manifold \((X,\omega)\) whose cohomology \(H^\bullet(X)\) is equipped with the Poincaré pairing \(\langle\cdot,\cdot\rangle\).
+
+Gromov-Witten theory is a powerful tool in symplectic geometry which connects to mathematical physics, namely Type IIA string theory. The main point of study are the Gromov-Witten invariants, which "count" genus \(g\) pseudo-holomorphic curves \(C\subset \mathbb{C} P^1\), with \(n\) marked points, mapping into \(X\). That is, we consider _stable maps_ \(f: C\subset\mathbb{C} P^1\to X\). It turns out that the set of these functions forms a moduli space, which allows us to define the Gromov-Witten invariants:
 </p>
 
 <p>
-Consider three cohomology classes \(\alpha,\beta,\gamma\) on the target \(X\), and integrate
+<b> Definition. </b> Consider the stable maps sending \(C\subset\mathbb{C} P^1\to X\), where \(C\) is of genus \(g\) and has \(n\) marked points. Then we can form a moduli space \(\mathcal{M}_{g,n}(X)\) of such curves \(C\). Note that for our use, we only consider genus 0 curves with 3 marked points; that is, \(\mathcal{M}_{0,3}(X)\). We define the <i> evaluation maps </i> on the moduli space, \(\text{ev}_i:\mathcal{M}_{0,3}(X)\to X\), by sending a stable map to the value of the stable map at a marked point, \([f:(C,x_1,x_2,x_3)\to X]\mapsto f(x_i)\).
+</p>
+
+<p>
+This moduli space and its evaluation maps allow us to define the Gromov-Witten invariants. Consider three cohomology classes \(\alpha,\beta,\gamma\) on \(X\). Then the <i> Gromov-Witten invariants </i> are given as
 $$
-A(\alpha,\beta,\gamma)=\int_{\mathcal{M}} \text{ev}_1^*\alpha\wedge \text{ev}_2^*\beta\wedge \text{ev}_3^*\gamma.
+GW_{0,3}(X)=\int_{\mathcal{M}_{0,3}(X)} \text{ev}_1^*\alpha\wedge\text{ev}_2^*\beta\wedge\text{ev}_3^*\gamma.
 $$
-This defines a 3-tensor, which turns out is such that \(A(\alpha,\beta,\gamma)=\langle\alpha\star\beta,\gamma\rangle\); this product \(\star\) is the <i> quantum product </i>. This product along with the Poincare pairing which \(X\) is equipped with define a Frobenius algebra over \(\mathbb{C}[[q]]\). If we set \(q=0\), we are effectively just counting the constant, or zero-energy, holomorphic curves: it turns out that this retrieves the standard cohomology of \(X\).
 </p>
 
 <p>
-If we consider now a Lagrangian submanifold \(L\subset X\), we can again study the moduli space of curves on a disk with boundary on \(L\) with three marked points, and deform the cup product on \(H^\bullet(L)\). This determines a non-commutative Frobenius algebra, where again restricting to constant curves allows one to retrieve the cohomology of \(L\).
+Interestingly, if we identify the Poincaré pairing with the Gromov-Witten invariants of \(X\), 
+$$
+\langle\alpha\star\beta,\gamma\rangle=GW_{0,3}(X),
+$$
+it turns out that the product \(\star\) which satisfies this equality is the <i> quantum product </i> on the quantum ring \(H^\bullet(X)[[q]]\). If we now restrict to just constant curves by setting \(q=0\), this quantum product reduces to the standard cup product on \(H^\bullet(X)\).
+
+We can do the same construction for a Lagrangian submanifold \(L\subset X\), but we instead consider a "disk" instead of a projective sphere with three marked points.
 </p>
 
 <p>
-I spent the majority of the Summer of 2023 working with orbifolds; naturally, an extension of the ideas mentioned above would be to symplectic orbifolds. It turns out that when similar processes as above are performed on an orbifold \(\mathcal{X}\) (which requires the use of the <i> inertia orbifold</i>), we are able to construct the <i> stringy </i> product. This is a remarkable result, as this product structure is not immediately observable when one studies the cohomology of orbifolds.
+I spent the majority of the Summer of 2023 working with orbifolds; naturally, an extension of the ideas mentioned above would be to a symplectic orbifold \(\mathcal{X}\). It turns out that when similar processes as above are performed on \(\mathcal{X}\), we require the use of the cohomology of the <i> inertia orbifold</i> \(I\mathcal{X}\). Amazingly, when we identify
+$$
+\langle\alpha\star\beta,\gamma\rangle=GW_{0,3}(\mathcal{X})
+$$
+and restrict to \(q=0\), we retrieve the <i> Chen-Ruan product </i> on \(H^\bullet(I\mathcal{X})[[q]]\)! This is a remarkable result, as this product structure is not immediately observable when one studies the cohomology of orbifolds.
 </p>
 
 <p>
-As mentioned in the manifold case, we also would like to study the Lagrangian case. However, the notion of a "Lagrangian suborbifold" is not well defined. However, in a 2023 <a href="https://arxiv.org/abs/2308.01595">preprint</a> of Chen, Ono, and Wang, the idea of the <i> dihedral twisted sector </i> \(I_{\mathcal{X}}L\) is introduced -- as the notation may suggest, this acts as a sort of Lagrangian "relative" to \(\mathcal{X}\). <b> So, we conjecture that another exotic cohomology product could be constructed on </b> \(I_{\mathcal{X}}L\).
+We also would like to study a Lagrangian suborbifold \(\mathcal{L}\subset\mathcal{X}) as modeled in the manifold case. However, the notion of a "Lagrangian suborbifold" is not well defined. However, in a 2023 <a href="https://arxiv.org/abs/2308.01595">preprint</a> of Chen, Ono, and Wang, the idea of the <i> dihedral twisted sector </i> \(I_{\mathcal{X}}\mathcal{L}\) is introduced -- as the notation may suggest, this acts as a sort of Lagrangian "relative" to \(\mathcal{X}\). <b> So, we conjecture that another exotic cohomology product could be constructed on </b> \(I_{\mathcal{X}}\mathcal{L}\) <b> by restricting </b> \(H^\bullet(I_\mathcal{X}\mathcal{L})[[q]]\) <b> to </b> \(q=0\).
+</p>
+
+<p>
+In an alternative approach towards such a result, techniques from a paper from <a href="https://arxiv.org/abs/math/0502280">Jarvis, Kaufmann, and Kimura</a> suggest the need to construct a <i> double </i> inertia orbifold \(II_{\mathcal{X}}\mathcal{L}\) and an obstruction class in its \(K\)-theory. This would provide an explicit description of this conjectured product structure on the cohomology of the dihedral twisted sector.
 </p>
     </div>
     <footer class="content__footer"></footer>
