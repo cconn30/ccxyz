@@ -48,11 +48,11 @@ So, in the case of manifolds, up to homotopy, the crucial data which allows for 
 <p>
 Consider a symplectic manifold \((X,\omega)\) whose cohomology \(H^\bullet(X)\) is equipped with the Poincaré pairing \(\langle\cdot,\cdot\rangle\).
 
-Gromov-Witten theory is a powerful tool in symplectic geometry which connects to mathematical physics, namely Type IIA string theory. The main point of study are the Gromov-Witten invariants, which "count" genus \(g\) pseudo-holomorphic curves \(C\subset \mathbb{C} P^1\), with \(n\) marked points, mapping into \(X\). That is, we consider <i> stable maps </i> \(f: C\subset\mathbb{C} P^1\to X\). It turns out that the set of these functions forms a moduli space, which allows us to define the Gromov-Witten invariants:
+Gromov-Witten theory is a powerful tool in symplectic geometry which connects to mathematical physics, namely Type IIA string theory. The main point of study are the Gromov-Witten invariants, which "count" genus \(g\) pseudo-holomorphic curves with \(n\) marked points, mapping into \(X\). That is, we consider <i> stable maps </i> \(f: \mathbb{C} P^1\to X\). It turns out that the set of these functions forms a moduli space, which allows us to define the Gromov-Witten invariants:
 </p>
 
 <p>
-<b> Definition. </b> Consider the stable maps sending \(C\subset\mathbb{C} P^1\to X\), where \(C\) is of genus \(g\) and has \(n\) marked points. Then we can form a moduli space \(\mathcal{M}_{g,n}(X)\) of such curves \(C\). Note that for our use, we only consider genus 0 curves with 3 marked points; that is, \(\mathcal{M}_{0,3}(X)\). We define the <i> evaluation maps </i> on the moduli space, \(\text{ev}_i:\mathcal{M}_{0,3}(X)\to X\), by sending a stable map to the value of the stable map at a marked point, \([f:(C,x_1,x_2,x_3)\to X]\mapsto f(x_i)\).
+<b> Definition. </b> Consider the stable maps \(\mathbb{C} P^1\to X\) of genus \(g\), where \(\mathbb{C}P^1\) has \(n\) marked points. Then we can form a moduli space \(\mathcal{M}_{g,n}(X)\) of such curves. Note that for our use, we only consider genus 0 curves with 3 marked points; that is, \(\mathcal{M}_{0,3}(X)\). We define the <i> evaluation maps </i> on the moduli space, \(\text{ev}_i:\mathcal{M}_{0,3}(X)\to X\), by sending a stable map to the value of the stable map at a marked point, \([f:(\mathbb{C}P^1,x_1,x_2,x_3)\to X]\mapsto f(x_i)\).
 </p>
 
 <p>
@@ -69,7 +69,7 @@ $$
 $$
 it turns out that the product \(\star\) which satisfies this equality is the <i> quantum product </i> on the quantum ring \(H^\bullet(X)[[q]]\). If we now restrict to just constant curves by setting \(q=0\), this quantum product reduces to the standard cup product on \(H^\bullet(X)\).
 
-We can do the same construction for a Lagrangian submanifold \(L\subset X\), but we instead consider a "disk" instead of a projective sphere with three marked points.
+We can do the same construction for a Lagrangian submanifold \(L\subset X\), but we instead consider a "disk" with three marked points instead of a projective sphere \(\mathbb{C}P^1\) as the source for the pseudo-holomorphic curves.
 </p>
 
 <p>
