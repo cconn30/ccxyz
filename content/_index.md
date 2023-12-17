@@ -4,4 +4,4 @@ I am currently working with [Dr. Lino Amorim](https://www.math.ksu.edu/~lamorim/
 
 <img src="main.jpg" alt="me">
 
-This is me on Gile Mountain in Windsor County, Vermont.
+Here I am on Gile Mountain in Windsor County, Vermont.
