@@ -1,7 +1,7 @@
 +++
 author = "Carson Connard"
 title = "Photo Gallery"
-date = "2023-11-07"
+date = "2024-01-06"
 description = "photos from my travels"
 tags = [
     "photos",
@@ -11,6 +11,13 @@ tags = [
 Travelling (particularly for math) has brought me to some cool places, and introduced me to even cooler people. Here are some pictures from (some of) my wanderings.
 <!--more-->
 ---
+
+## San Francisco Bay Area, CA; January 2024
+
+<img src="../../assets/sf1.jpg" alt="beach" width="400">
+<img src="../../assets/sf2.jpg" alt="other carson" width="225">
+<img src="../../assets/sf3.jpg" alt="uc berkeley" width="225">
+<img src="../../assets/sf4.jpg" alt="overlook" width="400">
 
 ## Dartmouth College & Norwich Cty, VT; October 2023
 
