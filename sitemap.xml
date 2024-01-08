@@ -3,19 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://carsonconnard.xyz/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>https://carsonconnard.xyz/post/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonconnard.xyz/tags/privacy/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonconnard.xyz/tags/shortcodes/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonconnard.xyz/tags/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carsonconnard.xyz/post/talks/</loc>
+    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carsonconnard.xyz/post/photogallery/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carsonconnard.xyz/tags/photos/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carsonconnard.xyz/tags/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carsonconnard.xyz/post/ponderings/</loc>
@@ -50,15 +59,6 @@
   </url><url>
     <loc>https://carsonconnard.xyz/series/themes-guide/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carsonconnard.xyz/tags/privacy/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carsonconnard.xyz/tags/shortcodes/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carsonconnard.xyz/post/talks/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carsonconnard.xyz/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
