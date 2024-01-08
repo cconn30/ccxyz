@@ -14,10 +14,10 @@ Travelling (particularly for math) has brought me to some cool places, and intro
 
 ## San Francisco Bay Area, CA; January 2024
 
-<img src="../../assets/sf1.jpg" alt="beach" width="400">
-<img src="../../assets/sf2.jpg" alt="other carson" width="225">
-<img src="../../assets/sf3.jpg" alt="uc berkeley" width="225">
-<img src="../../assets/sf4.jpg" alt="overlook" width="400">
+<img src="../../assets/sf1.jpeg" alt="beach" width="400">
+<img src="../../assets/sf2.jpeg" alt="other carson" width="225">
+<img src="../../assets/sf3.jpeg" alt="uc berkeley" width="225">
+<img src="../../assets/sf4.jpeg" alt="overlook" width="400">
 
 ## Dartmouth College & Norwich Cty, VT; October 2023
 
