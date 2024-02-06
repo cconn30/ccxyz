@@ -36,7 +36,7 @@ I have presented my work at various conferences, seminars, and workshops. This i
 
 ### Upcoming
 
-*None upcoming*
+1. [Mar 22-23, 2024] MAA Kansas Section Meeting 2024 at Washburn University
 
 ### Previous
 
