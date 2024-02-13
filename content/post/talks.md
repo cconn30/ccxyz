@@ -37,6 +37,7 @@ I have presented my work at various conferences, seminars, and workshops. This i
 ### Upcoming
 
 1. [Mar 22-23, 2024] MAA Kansas Section Meeting 2024 at Washburn University
+2. [Apr 13-14, 2024] Kansas Mathematics Graduate Student Conference (Spring '24) at KSU
 
 ### Previous
 
