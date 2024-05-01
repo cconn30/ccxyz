@@ -1,7 +1,7 @@
 +++
 author = "Carson Connard"
 title = "Talks & Travel"
-date = "2024-03-25"
+date = "2024-05-01"
 description = "list of upcoming/previous talks"
 tags = [
     "shortcodes",
