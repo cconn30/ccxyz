@@ -37,7 +37,7 @@ I have presented my work at various conferences, seminars, and workshops. This i
 
 ### Upcoming
 
-*None upcoming*
+1. [June 3-7, 2024] CMND Graduate Workshop in Field Theory and Topology at the University of Notre Dame
 
 ### Previous
 
