@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = ""
 +++
 
-I graduated from high school in greater Houston, TX, and I am currently a senior at Kansas State University in Manhattan, KS. This fall, I will be a Ph.D. student at the University of Washington. I intend to work in research, ideally in the academic realm, following my time in Seattle.
+I graduated from high school in Greater Houston, TX, and I received my B.S. in Mathematics from Kansas State University in Manhattan, KS. Beginning this September, I will be a Ph.D. student at the University of Washington. I intend to work in research, ideally in the academic realm, following my time in Seattle.
 
 External to academia, my hobbies include (but are not limited to):
 
