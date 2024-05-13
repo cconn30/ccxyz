@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://carsonconnard.xyz/about/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://carsonconnard.xyz/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -26,9 +29,6 @@
   </url><url>
     <loc>https://carsonconnard.xyz/tags/photos/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carsonconnard.xyz/about/</loc>
-    <lastmod>2023-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carsonconnard.xyz/post/ponderings/</loc>
     <lastmod>2023-11-27T00:00:00+00:00</lastmod>
