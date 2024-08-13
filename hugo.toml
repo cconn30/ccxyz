@@ -61,7 +61,7 @@ url = "https://orcid.org/0009-0004-5181-1863"
 
   [[menu.main]]
   name = 'Tutoring'
-  url = '/tutoring'
+  url = '/tutoring/'
   weight = 20
 
 [taxonomies]
