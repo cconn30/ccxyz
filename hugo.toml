@@ -59,6 +59,11 @@ url = "https://orcid.org/0009-0004-5181-1863"
     url = "/about/"
     weight = 10
 
+  [[menu.main]]
+  name = 'Tutoring'
+  url = '/tutoring'
+  weight = 20
+
 [taxonomies]
 category = "categories"
 tag = "tags"
