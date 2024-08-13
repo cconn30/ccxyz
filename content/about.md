@@ -27,4 +27,4 @@ External to academia, my hobbies include (but are not limited to):
 ---
 # Tutoring
 
-If you are interested in private tutoring, click [here](../tutoring.md)
+If you are interested in private tutoring, click [here](../assets/tutoring.md)
