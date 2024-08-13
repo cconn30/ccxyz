@@ -6,4 +6,4 @@ aliases = ["tutor", "tutoring", "contact"]
 author = ""
 +++
 
-Tutoring test
+_Page under construction. Please contact me via [email](mailto:cc30@uw.edu) in the mean time for inquiries._
