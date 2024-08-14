@@ -12,6 +12,13 @@ Travelling (particularly for math) has brought me to some cool places, and intro
 <!--more-->
 ---
 
+## University of Notre Dame & St. Joseph, MI; June 2024
+
+<img src="../../assets/nd41.jpeg" alt="notre dame 1" width="225">
+<img src="../../assets/nd42.jpeg" alt="notre dame 2" width="400">
+<img src="../../assets/nd43.jpeg" alt="notre dame 3" width="400">
+<img src="../../assets/nd44.jpeg" alt="notre dame 4" width="225">
+
 ## San Francisco Bay Area, CA; January 2024
 
 <img src="../../assets/sf1.jpeg" alt="beach" width="400">
