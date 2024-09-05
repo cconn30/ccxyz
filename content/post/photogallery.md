@@ -1,7 +1,7 @@
 +++
 author = "Carson Connard"
 title = "Photo Gallery"
-date = "2024-01-06"
+date = "2024-09-04"
 description = "photos from my travels"
 tags = [
     "photos",
@@ -12,12 +12,12 @@ Travelling (particularly for math) has brought me to some cool places, and intro
 <!--more-->
 ---
 
-## Moving to Seattle/Stops along I-90; August 2024
+## Moving to Seattle/stops along I-90; August 2024
 
-<img src="../../assets/seattle4.jpeg" alt="notre dame 1" width="225">
-<img src="../../assets/seattle3.jpeg" alt="notre dame 2" width="400">
-<img src="../../assets/seattle1.jpeg" alt="notre dame 3" width="400">
-<img src="../../assets/seattle2.jpeg" alt="notre dame 4" width="225">
+<img src="../../assets/seattle4.jpeg" alt="seattle 1" width="225">
+<img src="../../assets/seattle3.jpeg" alt="seattle 2" width="400">
+<img src="../../assets/seattle1.jpeg" alt="seattle 3" width="400">
+<img src="../../assets/seattle2.jpeg" alt="seattle 4" width="225">
 
 ## University of Notre Dame & St. Joseph, MI; June 2024
 
