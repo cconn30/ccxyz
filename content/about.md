@@ -6,13 +6,13 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = ""
 +++
 
-I graduated from high school in Greater Houston, TX, and I received my B.S. in Mathematics from Kansas State University in Manhattan, KS. Beginning this September, I will be a Ph.D. student at the University of Washington. I intend to work in research, ideally in the academic realm, following my time in Seattle.
+I graduated from high school in Greater Houston, TX, and I received my B.S. in Mathematics from Kansas State University in Manhattan, KS. Since September 2024, I have been a Ph.D. student at the University of Washington in Seattle, WA. I intend to work in research, ideally in the academic realm, following the completion of my degree.
 
 External to academia, my hobbies include (but are not limited to):
 
 - swimming (except backstroke)
 - road-tripping/travelling
-- rock climbing
+- rock climbing and hiking
 - road biking
 - listening to five new songs a day
 - live music
