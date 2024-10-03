@@ -21,7 +21,7 @@ A list of my papers and expository writings.
 
 ## Publications
 
-1. C. Connard, B. Ingimarson, R. Nichols, and A. Paul, *Weak convergence of spectral shift functions revisited,* 2023. To appear in *Pure and Applied Functional Analysis*. Currently available [here](https://arxiv.org/abs/2211.14970).
+1. C. Connard, B. Ingimarson, R. Nichols, and A. Paul, *Weak convergence of spectral shift functions revisited,* 2024. *Pure and Applied Functional Analysis*, Vol. 9 (2024), No. 4, 1023-1051.
 
 
 ## Expository works
