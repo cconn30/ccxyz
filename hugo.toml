@@ -23,7 +23,7 @@ palette = "base16-dark"
 # Sidebar: about/bio
 [params.about]
 title = "carson connard"
-description = "incoming mathematics ph.d. student at the university of washington"
+description = "mathematics ph.d. student at the university of washington"
 logo = ""
 
 # Sidebar: social links
