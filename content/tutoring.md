@@ -6,7 +6,9 @@ aliases = ["tutor", "tutoring", "contact"]
 author = ""
 +++
 
-_Page under construction. Please contact me via [email](mailto:cc30@uw.edu) in the mean time for inquiries._
+_I am listed on the UW Math Tutor Directory. Please contact me via [email](mailto:cc30@uw.edu) for inquiries._
+
+My current rate is $80/hour, and I am willing to negotiate deals for groups (i.e., lower price per person) and for those who frequently use my services.
 
 I have experience tutoring learners of all ages; I have tutored middle school and high school mathematics courses, including but not limited to
 - Algebra
