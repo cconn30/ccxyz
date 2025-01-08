@@ -16,7 +16,7 @@ I have presented my work at various conferences, seminars, and workshops. This i
 
 ### Upcoming
  
-*None upcoming*
+1. [03-03-25] Graduate Student Differential Geometry Seminar presentation, "Morse-Bott Theory" -- 50 minute talk
 
 ### Previous
 
@@ -37,21 +37,22 @@ I have presented my work at various conferences, seminars, and workshops. This i
 
 ### Upcoming
 
-1. [June 3-7, 2024] CMND Graduate Workshop in Field Theory and Topology at the University of Notre Dame
+1. [Jan 8-11, 2025] JMM 2025 in Seattle, WA
 
 ### Previous
 
-1. [Apr 13-14, 2024] Kansas Mathematics Graduate Student Conference (Spring '24) at KSU
-2. [Mar 22-23, 2024] MAA Kansas Section Meeting 2024 at Washburn University
-3. [Jan 3-6, 2024] JMM 2024 in San Francisco, CA
-4. [Dec 2-3, 2023] Kansas Mathematics Graduate Student Conference (Fall '23) at the University of Kansas
-5. [Nov 18, 2023] Kansas Honors Connections Conference at Emporia State University
-6. [Nov 3-4, 2023] 19th Prairie Analysis Seminar at KSU
-7. [Oct 12-15, 2023] Dartmouth Scholars Program at Dartmouth College
-8. [Apr 14-15, 2023] MAA Kansas Section Meeting 2023 at Bethany College
-9. [Jun 19-23, 2023] Northwestern Dynamics Summer School at Northwestern University
-10. [Jun 12-17, 2023] CMND Undergraduate Workshop in Rationality & Hyperbolicity at the University of Notre Dame
-11. [Apr 8, 2023] Kansas Mathematics Graduate Student Conference (Spring '23)
-12. [Jan 4-7, 2023] JMM 2023 in Boston, MA
-13. [Aug 3-6, 2022] MAA MathFest in Philadelphia, PA
-14. [May 29 - Jun 4, 2022] CMND Undergraduate Workshop in Number Theory at the University of Notre Dame
+1. [Jun 3-7, 2024] CMND Graduate Workshop in Field Theory and Topology at the University of Notre Dame
+2. [Apr 13-14, 2024] Kansas Mathematics Graduate Student Conference (Spring '24) at KSU
+3. [Mar 22-23, 2024] MAA Kansas Section Meeting 2024 at Washburn University
+4. [Jan 3-6, 2024] JMM 2024 in San Francisco, CA
+5. [Dec 2-3, 2023] Kansas Mathematics Graduate Student Conference (Fall '23) at the University of Kansas
+6. [Nov 18, 2023] Kansas Honors Connections Conference at Emporia State University
+7. [Nov 3-4, 2023] 19th Prairie Analysis Seminar at KSU
+8. [Oct 12-15, 2023] Dartmouth Scholars Program at Dartmouth College
+9. [Apr 14-15, 2023] MAA Kansas Section Meeting 2023 at Bethany College
+10. [Jun 19-23, 2023] Northwestern Dynamics Summer School at Northwestern University
+11. [Jun 12-17, 2023] CMND Undergraduate Workshop in Rationality & Hyperbolicity at the University of Notre Dame
+12. [Apr 8, 2023] Kansas Mathematics Graduate Student Conference (Spring '23)
+13. [Jan 4-7, 2023] JMM 2023 in Boston, MA
+14. [Aug 3-6, 2022] MAA MathFest in Philadelphia, PA
+15. [May 29 - Jun 4, 2022] CMND Undergraduate Workshop in Number Theory at the University of Notre Dame
