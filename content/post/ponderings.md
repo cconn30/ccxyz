@@ -18,6 +18,16 @@ A place for me to talk about some of my recent mathematical musings.
 {{ end }}
 {{</ math.inline >}}
 
+## [02-18-25] Morse-Bott homology
+
+<p>
+In preparation for a talk at the grad student Differential Geometry Seminar at UW, I've been digging in to some different directions coming from the Morse theory that I studied at the end of my undergrad. Namely, I've been reading about Morse-Bott functions, and how they pose a sort of "non-isolated" form of Morse theory/handle decomposition. Namely, in Bott's paper <i>Nondegenerate critical submanifolds</i>, the isomorphism /(H_k(M^{p+\epsilon}\cap U,M^{p-\epsilon}\cap U)\cong H_{k-\lambda}(\{p\}) /) is extended to the situation in which we have a space /(S/) consisting of a disjoint union of finitely many connected <i>submanifolds</i> of critical points; that is, /(H_k(M^{p+\epsilon}\cap U,M^{p-\epsilon}\cap U)\cong H_{k-\lambda}(S)/). (<i>Note: our choice of /(p\in S/) here is arbitrary; we impose the condition that /(\text{Hess}_f(p)/) is nondegenerate in the normal direction to /(S/) for all /(p/).)
+</p>
+
+<p>
+A paper that I've found to be of interest (ableit, it may not be the source of material that I will cover in my talk) is <i>Morse-Bott homology</i>, authored by A. Banyaga and D. Hurtubise. I found great interest in Morse homology (i.e., part 1 of Audin and Damian's book) during my first exposure to it, and the extension to orbifolds in Cho and Hong's paper <i>Orbifold Morse-Smale-Witten complexes</i> was a similar positive learning experience. Banyaga and Hurtubise's paper is again an extension of classical results for Morse functions on Riemannian manifolds to a more general setting, and I look forward to working through this paper.
+</p>
+
 
 ## [11-27-23] More general structure than expected?
 
