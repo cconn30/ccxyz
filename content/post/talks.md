@@ -16,11 +16,11 @@ I have presented my work at various conferences, seminars, and workshops. This i
 
 ### Upcoming
  
- n/a
+ 1. Graduate Student Differential Geometry Seminar presentation, "Morse-Bott Theory and Closed Geodesics" -- 50 minute talk
 
 ### Previous
 
-1. [03-03-25] Graduate Student Differential Geometry Seminar presentation, "Morse-Bott Theory" -- 50 minute talk
+1. [03-03-25] Graduate Student Differential Geometry Seminar presentation, "Morse Homology" -- 50 minute talk
 2. [05-01-24] Complex Analysis final presentation, "The Gromov-Schwarz Lemma" -- 30 minute talk
 3. [12-06-23] Geometric Measure Theory final presentation, "Haar Measures on Lie Groups" -- 60 minute talk
 4. [12-03-23] Kansas Mathematics Graduate Student Conference (Fall 2023) at the University of Kansas -- 25 minute talk
