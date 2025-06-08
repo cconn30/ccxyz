@@ -16,21 +16,22 @@ I have presented my work at various conferences, seminars, and workshops. This i
 
 ### Upcoming
  
- 1. [05-19-25] Graduate Student Differential Geometry Seminar presentation, "Morse-Bott Theory and Orbifold Morse-Smale-Witten Complexes" -- 60 minute talk
+n/a
 
 ### Previous
 
-1. [03-03-25] Graduate Student Differential Geometry Seminar presentation, "Morse Homology" -- 60 minute talk
-2. [05-01-24] Complex Analysis final presentation, "The Gromov-Schwarz Lemma" -- 30 minute talk
-3. [12-06-23] Geometric Measure Theory final presentation, "Haar Measures on Lie Groups" -- 60 minute talk
-4. [12-03-23] Kansas Mathematics Graduate Student Conference (Fall 2023) at the University of Kansas -- 25 minute talk
-5. [11-18-23] Kansas Honors Connections Conference at Emporia State University -- 20 minute talk
-6. [11-13-23] Topology Seminar at KSU -- 50 minute talk
-7. [10-30-23] Physics Undergraduate Colloquium at KSU -- 15 minute talk
-8. [10-13-23] Dartmouth Scholar's Program at Dartmouth College -- poster
-9. [01-06-23] JMM 2023 -- poster
-10. [08-25-22] University of Tennessee at Chattanooga Fall Research Conference -- 15 minute talk
-11. [07-30-22] University of Tennessee at Chattanooga REU Final Presentation -- 30 minute talk
+1. [05-19-25] Graduate Student Differential Geometry Seminar presentation, "Morse-Bott Theory and Orbifold Morse-Smale-Witten Complexes" -- 60 minute talk
+2. [03-03-25] Graduate Student Differential Geometry Seminar presentation, "Morse Homology" -- 60 minute talk
+3. [05-01-24] Complex Analysis final presentation, "The Gromov-Schwarz Lemma" -- 30 minute talk
+4. [12-06-23] Geometric Measure Theory final presentation, "Haar Measures on Lie Groups" -- 60 minute talk
+5. [12-03-23] Kansas Mathematics Graduate Student Conference (Fall 2023) at the University of Kansas -- 25 minute talk
+6. [11-18-23] Kansas Honors Connections Conference at Emporia State University -- 20 minute talk
+7. [11-13-23] Topology Seminar at KSU -- 50 minute talk
+8. [10-30-23] Physics Undergraduate Colloquium at KSU -- 15 minute talk
+9. [10-13-23] Dartmouth Scholar's Program at Dartmouth College -- poster
+10. [01-06-23] JMM 2023 -- poster
+11. [08-25-22] University of Tennessee at Chattanooga Fall Research Conference -- 15 minute talk
+12. [07-30-22] University of Tennessee at Chattanooga REU Final Presentation -- 30 minute talk
 
 ---
 
