@@ -12,6 +12,13 @@ Travelling (particularly for math) has brought me to some cool places, and intro
 <!--more-->
 ---
 
+## Providence, RI & New York, NY; June 2025
+
+<img src="../../assets/prov1.jpeg" alt="woonasquatucket" width="400">
+<img src="../../assets/prov2.jpeg" alt="brown" width="225">
+<img src="../../assets/prov4.jpeg" alt="times square" width="225">
+<img src="../../assets/prov3.jpeg" alt="me and tyson in financial district" width="400">
+
 ## Moving to Seattle/stops along I-90; August 2024
 
 <img src="../../assets/seattle4.jpeg" alt="seattle 1" width="225">
