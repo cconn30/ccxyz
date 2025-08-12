@@ -1,7 +1,7 @@
 +++
 author = "Carson Connard"
 title = "Photo Gallery"
-date = "2024-09-04"
+date = "2025-08-11"
 description = "photos from my travels"
 tags = [
     "photos",
