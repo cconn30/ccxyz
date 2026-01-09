@@ -25,3 +25,6 @@ Amongst all genres that I listen to, I am the most interested in techno, includi
 ## Recent favorites
 
 *under construction*
+
+Chris Liebing and I after his show at Substation:
+<img src="../../assets/liebing.jpeg" alt="me and chris liebing" width="225">
