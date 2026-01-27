@@ -16,7 +16,8 @@ External to academia, my hobbies include (but are not limited to):
 - road-tripping/travelling
 - rock climbing and hiking
 - road biking
-- listening to five new songs a day
+- skiing
+- music (particularly techno)
 - live music
 - cooking interesting food
 - making and solving puzzles
