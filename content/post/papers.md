@@ -26,8 +26,10 @@ A list of my papers and expository writings.
 
 ## Expository works
 
-1. Undergraduate thesis: Morse Theory and Cohomology Product Deformation for Symplectic Orbifolds (in preparation).
-2. Lecture notes for Haar measures on Lie groups (in preparation).
+1. UW Writing Milestone: The Cheeger-Gromoll Splitting Theorem (in preparation).
+
+2. Undergraduate thesis: Morse Theory and Cohomology Product Deformation for Symplectic Orbifolds (in preparation).
+3. Lecture notes for Haar measures on Lie groups (in preparation).
 <!---
 3. Intro to Morse Homology and Gromov-Witten Theory on Orbifolds. (WIP, [pdf](../../morsehomologyGWTOrbi.pdf))
 -->
