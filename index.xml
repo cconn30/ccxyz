@@ -6,7 +6,34 @@
     <description>Recent content on Carson Connard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://carsonconnard.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://carsonconnard.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://carsonconnard.xyz/about/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://carsonconnard.xyz/about/</guid>
+      <description>I graduated from high school in the Greater Houston, TX area, and I received my B.S. in Mathematics from Kansas State University in Manhattan, KS. Since September 2024, I have been a Ph.D. student at the University of Washington in Seattle, WA. I intend to work in research following the completion of my degree. I am interested in differential geometry, with a current interest on CR geometry, inverse problems, and microlocal analysis.</description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; Travel</title>
+      <link>https://carsonconnard.xyz/post/talks/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://carsonconnard.xyz/post/talks/</guid>
+      <description>&lt;p&gt;I have presented my work at various conferences, seminars, and workshops. This is a list of recent talks/highlights.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://carsonconnard.xyz/post/writing/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://carsonconnard.xyz/post/writing/</guid>
+      <description>&lt;p&gt;A list of my papers and expository writings.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Techno</title>
       <link>https://carsonconnard.xyz/post/techno/</link>
@@ -35,43 +62,15 @@
     </item>
     
     <item>
-      <title>Talks &amp; Travel</title>
-      <link>https://carsonconnard.xyz/post/talks/</link>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://carsonconnard.xyz/post/talks/</guid>
-      <description>&lt;p&gt;I have presented my work at various conferences, seminars, and workshops. This is a list of my talks and math-related travels.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Tutoring</title>
       <link>https://carsonconnard.xyz/tutoring/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://carsonconnard.xyz/tutoring/</guid>
       <description>I am listed on the UW Math Tutor Directory. Please contact me via email for inquiries.
-My current rate is $80/hour, and I am willing to negotiate deals for groups (i.e., lower price per person) and for those who frequently use my services.
+My current rate is $80/hour, and I am willing to negotiate deals for groups (i.e., lower price per person).
 I have experience tutoring learners of all ages; I have tutored middle school and high school mathematics courses, including but not limited to
-Algebra Geometry Trigonometry Pre-calculus Calculus SAT/ACT mathematics and AP test prep During my undergrad, I also worked as a tutor for college courses, including but not limited to</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://carsonconnard.xyz/about/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://carsonconnard.xyz/about/</guid>
-      <description>I graduated from high school in Greater Houston, TX, and I received my B.S. in Mathematics from Kansas State University in Manhattan, KS. Since September 2024, I have been a Ph.D. student at the University of Washington in Seattle, WA. I intend to work in research following the completion of my degree.
-During my undergrad, I worked with Dr. Lino Amorim on a project studying an analogue to Chen-Ruan cohomology on dihedral twisted sectors.</description>
-    </item>
-    
-    <item>
-      <title>Papers</title>
-      <link>https://carsonconnard.xyz/post/papers/</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://carsonconnard.xyz/post/papers/</guid>
-      <description>&lt;p&gt;A list of my papers and expository writings.&lt;/p&gt;</description>
+Algebra Geometry Trigonometry Pre-calculus Calculus SAT/ACT mathematics and AP test prep AP Physics 1/2/C During my undergrad, I also worked as a tutor for college courses, including but not limited to</description>
     </item>
     
     <item>
