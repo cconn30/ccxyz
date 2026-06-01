@@ -1,6 +1,6 @@
-I am a Ph.D. student in the [Department of Mathematics](https://math.washington.edu) at the University of Washington, supported by the NSF GRFP. Broadly speaking, my interests are in differential geometry; my prior research has been in symplectic geometry and the spectral theory of operators. 
+I am a Ph.D. student in the [Department of Mathematics](https://math.washington.edu) at the University of Washington, supported by the NSF GRFP. My interests are in differential geometry, particularly CR geometry and inverse problems.
 
-Currently, I'm learning about transport twistor spaces under the guidance of Gabriel Paternain, and I am co-organizing the Graduate Student Differential Geometry Seminar. I have also been spending some time learning Lean recently.
+Currently, I'm learning about transport twistor spaces under the guidance of Gabriel Paternain, and I am co-organizing the Graduate Student Differential Geometry Seminar. I have also been spending some time learning Lean.
 
 <img src="main.jpg" alt="me">
 

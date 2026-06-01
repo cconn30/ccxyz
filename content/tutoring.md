@@ -8,7 +8,7 @@ author = ""
 
 _I am listed on the UW Math Tutor Directory. Please contact me via [email](mailto:cc30@uw.edu) for inquiries._
 
-My current rate is $80/hour, and I am willing to negotiate deals for groups (i.e., lower price per person) and for those who frequently use my services.
+My current rate is $80/hour, and I am willing to negotiate deals for groups (i.e., lower price per person).
 
 I have experience tutoring learners of all ages; I have tutored middle school and high school mathematics courses, including but not limited to
 - Algebra
@@ -17,6 +17,7 @@ I have experience tutoring learners of all ages; I have tutored middle school an
 - Pre-calculus
 - Calculus
 - SAT/ACT mathematics and AP test prep
+- AP Physics 1/2/C
 
 During my undergrad, I also worked as a tutor for college courses, including but not limited to
 - College algebra

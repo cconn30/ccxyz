@@ -1,7 +1,7 @@
 +++
 author = "Carson Connard"
-title = "Papers"
-date = "2023-11-06"
+title = "Writing"
+date = "2026-06-01"
 description = "list of my writings"
 tags = [
     "markdown",
@@ -26,10 +26,8 @@ A list of my papers and expository writings.
 
 ## Expository works
 
-1. UW Writing Milestone: The Cheeger-Gromoll Splitting Theorem (in preparation).
+*I am currently writing detailed notes on transport twistor spaces, aimed at accessibility towards a grad level reader.*
 
-2. Undergraduate thesis: Morse Theory and Cohomology Product Deformation for Symplectic Orbifolds (in preparation).
-3. Lecture notes for Haar measures on Lie groups (in preparation).
-<!---
-3. Intro to Morse Homology and Gromov-Witten Theory on Orbifolds. (WIP, [pdf](../../morsehomologyGWTOrbi.pdf))
--->
+1. UW Writing Milestone: The Cheeger-Gromoll Splitting Theorem. [pdf](../../assets/wm.pdf)
+
+2. Undergraduate thesis: Morse Theory for Orbifolds. [pdf](../../assets/ksuthesis.pdf)
