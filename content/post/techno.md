@@ -28,4 +28,8 @@ Amongst all genres that I listen to, I am the most interested in techno, includi
 
 <img src="../../assets/liebing.jpeg" alt="me and chris liebing" width="225">
 
-Chris Liebing and I after his show at Substation in Seattle
+Chris Liebing and I after his 2025 show in Seattle
+
+<img src="../../assets/kenishii.jpg" alt="me and ken ishii" width="225">
+
+Ken Ishii and I after his 2026 show in Seattle
